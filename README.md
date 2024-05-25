@@ -5,7 +5,7 @@
 
 -	Cloud Services: AWS (EC2, EKS, RDS, VPC) 
 -	Messaging: RabbitMQ, Websocket Api
--	Datastore: REDIS
+-	Datastore: REDIS,PostgreSQL(pgAdmin),MySQL
 -	Experiences with SQL, ETL
 -	Web Technologies: WebSocket, RestAPI
 -	Programming: Shell scripting, Bash, Python
