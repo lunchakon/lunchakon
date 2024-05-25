@@ -1,8 +1,8 @@
-#### Name : Lunchakon Wongprasert
-#### Technical Operations/Market Data Engineers 
+# Name : Lunchakon Wongprasert
+# Technical Operations/Market Data Engineers 
 
 ## Skills: Shell Scripting/ Bash / Python / SQL / HTML / CSS
-
+'''
 •	Cloud Services: AWS (EC2, EKS, RDS, VPC)
 
 •	Messaging: RabbitMQ, Websocket Api
@@ -24,7 +24,7 @@
 •	Operating Systems: Linux, Windows
 
 •	Fluency in English at native speaking level
-
+'''
 ### Work Experience 
 Technical Operations/Market Data Engineers, 
 Tradition Asia Pacific, 
