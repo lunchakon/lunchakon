@@ -1,7 +1,7 @@
 ## CV: Lunchakon Wongprasert
 ## Technical Operations/Market Data Engineers 
 
-### Skill :
+### Technical Skills :
 
 -	Cloud Services: AWS (EC2, EKS, RDS, VPC) 
 -	Messaging: RabbitMQ, Websocket Api
@@ -16,7 +16,7 @@
 -	Fluency in English at native speaking level
 
 
-### Work Experience 
+### Professional Experience
 
 #### Technical Operations/Market Data Engineers, Tradition Asia Pacific, May 2017 – Present (7 Years) , Chiang Mai, TH
 
