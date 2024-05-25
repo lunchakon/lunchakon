@@ -50,8 +50,7 @@
 ### Others interest
 
 - 🔭 I’m currently learning AWS Glue,Lamda, K8S, Wachine learning, AI, Generative AI for data Engineers, Automation IOT
-- 📫 To each me: Lunchakon.w@hotmail.com Chiang Mai, TH (+66) 990637241 
-
+- 📫 To each me: Lunchakon.w@hotmail.com Chiang Mai, TH
 
 
 
