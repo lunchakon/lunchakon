@@ -30,9 +30,8 @@
  </sup>
 
 ### Work Experience 
-Technical Operations/Market Data Engineers, 
-Tradition Asia Pacific, 
-May 2017 – Present (7 Years) , Chiang Mai, TH
+
+#### Technical Operations/Market Data Engineers, Tradition Asia Pacific, May 2017 – Present (7 Years) , Chiang Mai, TH
 
 <sup> 
 
@@ -56,8 +55,8 @@ May 2017 – Present (7 Years) , Chiang Mai, TH
  </sup>
 
 ### Working Holiday programs
-Melbourne, Sydney, AUS
-, Oct 2015 – Nov 2016
+
+#### Melbourne, Sydney, AUS , Oct 2015 – Nov 2016
 
 <sup> 
   
@@ -72,8 +71,7 @@ Melbourne, Sydney, AUS
  
 ### Business intelligence Developer
 
-Betimes Solutions LTD, 
-Jul 2014 – Apr 2015, Bangkok, TH
+#### Betimes Solutions LTD, Jul 2014 – Apr 2015, Bangkok, TH
 
 <sup> 
   
