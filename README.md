@@ -75,24 +75,10 @@
 #### Betimes Solutions LTD, Jul 2014 – Apr 2015, Bangkok, TH
 
 
-<sup> 
-  
-• Working Holiday visa (Subclass 417)
-  
-•	Designed BI solutions report and monitored/troubleshooted from the ground up using SQL, and Tableau to provide real-time insight based on business requirements.
-
-•	Developed standard reports (SAP BO, Crystal Report) and functional dashboards based on business needs.
-
-•	Designed relational and multidimensional database queries (SQL Server 2012).
-
-•	Configured, deployed, and maintained internal database servers.
-
-
-</sup> 
-
-
-
-
+- Designed BI solutions report and monitored/troubleshooted from the ground up using SQL, and Tableau to provide real-time insight based on business requirements.
+- Developed standard reports (SAP BO, Crystal Report) and functional dashboards based on business needs.
+- Designed relational and multidimensional database queries (SQL Server 2012).
+- Configured, deployed, and maintained internal database servers.
 
 
 
