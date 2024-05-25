@@ -57,7 +57,7 @@ May 2017 – Present (7 Years) , Chiang Mai, TH
 
 ### Working Holiday programs
 Melbourne, Sydney, AUS
-Oct 2015 – Nov 2016
+, Oct 2015 – Nov 2016
 
 <sup> 
   
@@ -71,11 +71,13 @@ Oct 2015 – Nov 2016
  </sup>
  
 ### Business intelligence Developer
-Betimes Solutions LTD 
+
+Betimes Solutions LTD, 
 Jul 2014 – Apr 2015, Bangkok, TH
-Working Holiday visa (Subclass 417)
 
 <sup> 
+  
+• Working Holiday visa (Subclass 417)
   
 •	Designed BI solutions report and monitored/troubleshooted from the ground up using SQL, and Tableau to provide real-time insight based on business requirements.
 
