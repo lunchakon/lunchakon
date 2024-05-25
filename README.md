@@ -49,9 +49,9 @@
 - Designed relational and multidimensional database queries (SQL Server 2012).
 - Configured, deployed, and maintained internal database servers.
 
-#### Others interest
+### Others interest
 
-- 🌱 I’m currently learning AWS Glue,Lamda, K8S, Wachine learning, AI, Generative AI for data Engineers
+- 🔭 I’m currently learning AWS Glue,Lamda, K8S, Wachine learning, AI, Generative AI for data Engineers, Automation IOT
 - 📫 To each me: Lunchakon.w@hotmail.com Chiang Mai, TH (+66) 990637241 
 
 
