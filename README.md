@@ -68,10 +68,12 @@
 
 •	Concert crewing Team (Showcall Crewing Pty Ltd): Providing stage tech, auxiliary, and support work arena shows, concerts, and music festivals.
  </sup>
+
  
 ### Business intelligence Developer
 
 #### Betimes Solutions LTD, Jul 2014 – Apr 2015, Bangkok, TH
+
 
 <sup> 
   
@@ -84,7 +86,14 @@
 •	Designed relational and multidimensional database queries (SQL Server 2012).
 
 •	Configured, deployed, and maintained internal database servers.
+
+
 </sup> 
+
+
+
+
+
 
 
 
