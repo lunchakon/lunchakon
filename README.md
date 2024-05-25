@@ -1,7 +1,7 @@
-# Name : Lunchakon Wongprasert
-# Technical Operations/Market Data Engineers 
+## Name : Lunchakon Wongprasert
+## Technical Operations/Market Data Engineers 
 
-## Skills: Shell Scripting/ Bash / Python / SQL / HTML / CSS
+### Skills: Shell Scripting/ Bash / Python / SQL / HTML / CSS
 
 <sup> 
   
@@ -85,6 +85,8 @@ Working Holiday visa (Subclass 417)
 
 •	Configured, deployed, and maintained internal database servers.
 </sup> 
+
+
 
 - 🌱 I’m currently learning AWS Glue,Lamda, K8S, ML, AI 
 - 📫 How to reach me: Lunchakon.w@hotmail.com Chiang Mai, TH (+66) 990637241 
