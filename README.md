@@ -1,22 +1,20 @@
-## Name : Lunchakon Wongprasert
+## CV: Lunchakon Wongprasert
 ## Technical Operations/Market Data Engineers 
 
 ### Skills: Shell Scripting/ Bash / Python / SQL / HTML / CSS
 
-<sup> 
-  
-•	Cloud Services: AWS (EC2, EKS, RDS, VPC) 
-•	Messaging: RabbitMQ, Websocket Api
-•	Datastore: REDIS
-•	Experiences with SQL, ETL
-•	Web Technologies: WebSocket, RestAPI
-•	Programming: Shell scripting, Bash, Python
-•	Deployment and Monitoring Tools: Grafana, Prometheus, Docker
-•	Version Control: GitHub
-•	Development Environments: Visual Studio, DataSpell, Pycharm
-•	Operating Systems: Linux, Windows
-•	Fluency in English at native speaking level
- </sup>
+-	Cloud Services: AWS (EC2, EKS, RDS, VPC) 
+-	Messaging: RabbitMQ, Websocket Api
+-	Datastore: REDIS
+-	Experiences with SQL, ETL
+-	Web Technologies: WebSocket, RestAPI
+-	Programming: Shell scripting, Bash, Python
+-	Deployment and Monitoring Tools: Grafana, Prometheus, Docker
+-	Version Control: GitHub
+-	Development Environments: Visual Studio, DataSpell, Pycharm
+-	Operating Systems: Linux, Windows
+-	Fluency in English at native speaking level
+
 
 ### Work Experience 
 
