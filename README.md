@@ -1,7 +1,7 @@
 ## CV: Lunchakon Wongprasert
 ## Technical Operations/Market Data Engineers 
 
-### Skills: Shell Scripting/ Bash / Python / SQL / HTML / CSS
+### Skill :
 
 -	Cloud Services: AWS (EC2, EKS, RDS, VPC) 
 -	Messaging: RabbitMQ, Websocket Api
