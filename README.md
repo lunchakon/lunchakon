@@ -16,7 +16,6 @@
 •	Development Environments: Visual Studio, DataSpell, Pycharm
 •	Operating Systems: Linux, Windows
 •	Fluency in English at native speaking level
-
  </sup>
 
 ### Work Experience 
@@ -43,18 +42,17 @@
 
  
 ### Business intelligence Developer
-#### Betimes Solutions LTD, Jul 2014 – Apr 2015, Bangkok, TH
+#### Betimes Solutions LTD, Bangkok, TH, Jul 2014 – Apr 2015
 
 - Designed BI solutions report and monitored/troubleshooted from the ground up using SQL, and Tableau to provide real-time insight based on business requirements.
 - Developed standard reports (SAP BO, Crystal Report) and functional dashboards based on business needs.
 - Designed relational and multidimensional database queries (SQL Server 2012).
 - Configured, deployed, and maintained internal database servers.
 
+#### Others interest
 
-
-
-- 🌱 I’m currently learning AWS Glue,Lamda, K8S, ML, AI 
-- 📫 How to reach me: Lunchakon.w@hotmail.com Chiang Mai, TH (+66) 990637241 
+- 🌱 I’m currently learning AWS Glue,Lamda, K8S, Wachine learning, AI, Generative AI for data Engineers
+- 📫 To each me: Lunchakon.w@hotmail.com Chiang Mai, TH (+66) 990637241 
 
 
 
