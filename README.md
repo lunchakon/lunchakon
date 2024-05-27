@@ -1,4 +1,4 @@
-## CV: Lunchakon Wongprasert
+## Name : Lunchakon Wongprasert
 ## Technical Operations/Market Data Engineers 
 
 ### Technical Skills :
