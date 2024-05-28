@@ -18,7 +18,8 @@
 
 ### Professional Experience
 
-#### Technical Operations/Market Data Engineers, Tradition Asia Pacific, May 2017 – Present (7 Years) , Chiang Mai, TH
+#### Technical Operations/Market Data Engineers, 
+#### Tradition Asia Pacific, May 2017 – Present (7 Years) , Chiang Mai, TH
 
 -	Monitored Market Data progress and managed vendor relationships (e.g., Thomson Reuters(Refinitiv), Bloomberg).
 -	Provided daily Market Data support, resolving technical issues, and fulfilling user requests.
