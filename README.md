@@ -8,7 +8,7 @@
 -	Datastore: REDIS,PostgreSQL(pgAdmin),MySQL
 -	Experiences with SQL, ETL
 -	Web Technologies: WebSocket, RestAPI
--	Programming: Shell scripting, Bash, Python
+-	Programming: Shell scripting, Bash, Python (Pandas,Numpy,Request)
 -	Deployment and Monitoring Tools: Grafana, Prometheus, Docker
 -	Version Control: GitHub
 -	Development Environments: Visual Studio, DataSpell, Pycharm
