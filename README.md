@@ -19,15 +19,16 @@
 #### Technical Operations/Market Data Engineers, 
 #### Tradition Asia Pacific, May 2017 – Present (7 Years) , Chiang Mai, TH
 
--	Monitored Market Data progress and managed vendor relationships (e.g., Thomson Reuters(Refinitiv), Bloomberg).
--	Provided daily Market Data support, resolving technical issues, and fulfilling user requests.
--	Collaborated with Systems Infrastructure Team to design and implement solutions.
--	Worked with technical teams to customize applications according to broker requirements.
--	Work with Cloud Services: AWS (EC2,S3,EKS,RDS,VPC)
--	Experience working with Linux environments (Centos, Ubuntu)
--	Programming in (Shell script, python)
--	Monitoring platform (Prometheus, Grafana, Nagios)
--	Microsoft Excel (VBA) Skill/Knowledge for Data Analytics.
+- Responsible for ensuring smooth operations of real-time financial trading products across the APAC region.
+- Collaborated with Cloud Services, including AWS (EC2, S3, EKS, RDS, PVC).
+- Experienced in working with virtual machines on Linux (CentOS, Ubuntu) and Windows Server environments.
+- Proficient in programming tasks using Shell, Bash, Python scripting, and DataFrame/SQL queries.
+- Experienced in implementing and working with open-source platforms (Prometheus, Grafana, Nagios, ArgoCD, Kubernetes).
+- Skilled in Microsoft Excel (VBA) and querying unstructured data for analytics.
+- Monitored market data operations and managed vendor relationships (e.g., Thomson Reuters, Bloomberg).
+- Provided daily market data support across regions, including Singapore, Thailand, Hong Kong, Japan, and the London office, resolving technical issues and addressing user requests efficiently.
+- Served as a Technical Support Engineer, collaborating with Developers and DevOps teams to manage CI/CD pipelines and support software lifecycle deployments.
+- Worked with the Systems Infrastructure team to design and implement solutions focused on data networking and security.
 
 ### Working Holiday programs
 #### Melbourne, Sydney, AUS , Oct 2015 – Nov 2016
