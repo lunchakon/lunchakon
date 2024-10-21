@@ -13,8 +13,6 @@
 -	Version Control: GitHub
 -	Development Environments: Visual Studio, DataSpell, Pycharm
 -	Operating Systems: Linux, Windows
--	Fluency in English at native speaking level
-
 
 ### Professional Experience
 
