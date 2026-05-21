@@ -1,12 +1,12 @@
-## Name : Lunchakon Wongprasert
+Market Data Engineer with 7+ years of experience supporting real-time financial systems across APAC. Passionate about cloud-native infrastructure, automation, observability, Kubernetes, and AI-driven operational tooling.
+
 ## Technical Operations/Market Data Engineers 
 
 ### Technical Skills :
 
--	Cloud Services: AWS (EC2, EKS, RDS, VPC) 
--	Messaging: RabbitMQ, Websocket Api
--	Datastore: REDIS,PostgreSQL(pgAdmin),MySQL
--	Experiences with SQL, ETL, ElasticSearch(kibana,logstash)
+-	Cloud & Infrastructure:AWS (EC2, EKS, RDS, S3, VPC), Docker, Kubernetes, ArgoCD
+-	Databases & Messaging: Redis, PostgreSQL, MySQL, RabbitMQ, WebSocket APIs
+- Data & Analytics: SQL, ETL Pipelines, Elasticsearch, Kibana, Logstash, Pandas
 -	Web Technologies: WebSocket, RestAPI
 -	Programming: Shell scripting, Bash, Python (Pandas,Numpy,Requests)
 -	Deployment and Monitoring Tools: Grafana, Prometheus, Docker
