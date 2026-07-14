@@ -4,7 +4,7 @@ Market Data Engineer with 7+ years of experience supporting real-time financial 
 
 ### Technical Skills :
 
--	Cloud & Infrastructure:AWS (EC2, EKS, RDS, S3, VPC), Docker, Kubernetes, ArgoCD
+-	Cloud & Infrastructure:AWS (EC2, EKS, RDS, S3, VPC), Docker, K8s
 -	Databases & Messaging: Redis, PostgreSQL, MySQL, RabbitMQ, WebSocket APIs
 - Data & Analytics: SQL, ETL Pipelines, Elasticsearch, Kibana, Logstash, Pandas
 -	Web Technologies: WebSocket, RestAPI
@@ -17,7 +17,7 @@ Market Data Engineer with 7+ years of experience supporting real-time financial 
 ### Professional Experience
 
 #### Technical Operations/Market Data Engineers, 
-#### Tradition Asia Pacific, May 2017 – Present (7 Years) , Chiang Mai, TH
+#### Tradition Asia, May 2017 – Present (7 Years) , Chiang Mai, TH
 
 - Responsible for ensuring smooth operations of real-time financial trading products across the APAC region.
 - Collaborated with Cloud Services, including AWS (EC2, S3, EKS, RDS, PVC).
@@ -34,10 +34,9 @@ Market Data Engineer with 7+ years of experience supporting real-time financial 
 #### Melbourne, Sydney, AUS , Oct 2015 – Nov 2016
 
 - Working Holiday visa (Subclass 417)
-- Hospitality work(Kinn Dining and Bar) : Experience working in the bustling restaurant scene of Sydney. Developed skills in customer service, teamwork, and multitasking in a fast-paced environment.
-- Factory work (Topaz Fine Foods Pty Ltd): Contributed to the production process in a bread factory, gaining insights into manufacturing operations, quality control, and teamwork in a production environment.
+- Hospitality work(Kinn Dining and Bar) : Experience working in the bustling restaurant.
+- Factory work (Topaz Fine Foods Pty Ltd): Contributed to the production process in a bread factory.
 - Concert crewing Team (Showcall Crewing Pty Ltd): Providing stage tech, auxiliary, and support work arena shows, concerts, and music festivals.
-
  
 ### Business intelligence Developer
 #### Betimes Solutions LTD, Bangkok, TH, Jul 2014 – Apr 2015
@@ -49,8 +48,7 @@ Market Data Engineer with 7+ years of experience supporting real-time financial 
 
 ### Others interest
 
-- 🔭 I’m currently learning AWS Glue,Lamda, K8S, Wachine learning, AI, Generative AI for data Engineers, Automation IOT
-- 📫 To Reach me: Lunchakon.w@hotmail.com Chiang Mai, TH
-
+- 🔭 I’m currently learning AWS,Lamda, K8S, AI for data Engineers, Automation IOT
+- 📫 To Reach me: Lunchakon.w@hotmail.com,TH
 
 
